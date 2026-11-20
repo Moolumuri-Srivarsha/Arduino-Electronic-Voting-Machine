@@ -67,6 +67,3 @@ Academic Laboratory Micro Project
 - Digital input handling
 - Vote counting and comparison logic
 - Hardware and software integration
-
-## Contributors
-Add your team members' names here.
